@@ -14,7 +14,7 @@ Esta aplicação é um gerenciador de tarefas desenvolvido com as seguintes tecn
  - Front Ent com Angular10
  - Banco de dados com Mysql
 
-## Instrunções
+## Instruções
 
 O projeto está dividido em sub módulos, sendo necessário clonar e inicializar seus sub módulos, sendo assim, após clonar este repositório, também é necessário configurar o projeto do backend e do frontend, que são os sub módulos desse projeto.
 
