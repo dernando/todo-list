@@ -1,3 +1,6 @@
 [submodule "todo-list-back"]
 	path = todo-list-back
 	url = https://github.com/dernando/todo-list-back
+[submodule "todo-list-front"]
+	path = todo-list-front
+	url = https://github.com/dernando/todo-list-front
